@@ -4,7 +4,7 @@
 #  Récupération de l'adresse MAC de l'interface réseau d'une IP  #
 ##################################################################
 #                                                                #
-#          SYNOPSYS :       ./mac.sh <IP.à.chercher>             #
+#          SYNOPSYS :    ./nicmac.sh <IP.à.chercher>             #
 #                                                                #
 ##################################################################
 
