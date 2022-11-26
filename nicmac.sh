@@ -4,8 +4,8 @@
 #  Récupération de l'adresse MAC de l'interface réseau d'une IP  #
 ##################################################################
 #                                                                #
-#          SYNOPSYS :    ./nicmac.sh <IP.à.chercher>             #
-#                                                                #
+#            SYNOPSYS : ./nicmac.sh <IP.à.chercher>              #
+#                                                    G0osS 2022  #
 ##################################################################
 
 # Si l'OS utilise ip
